@@ -1,5 +1,5 @@
 # LAB4WEB.
-#1.BOX ELEMENT
+#BOX ELEMENT
 #input
 ![input1](https://user-images.githubusercontent.com/56245966/115412567-a079fd80-a21e-11eb-961a-4658e808feb9.png)
 #output
@@ -16,5 +16,4 @@
 ![output3](https://user-images.githubusercontent.com/56245966/115413258-3b72d780-a21f-11eb-848d-1f6e248a1810.png)
 #NAVIGASI
 #input
-![input4](https://user-images.githubusercontent.com/56245966/115413444-60674a80-a21f-11eb-8794-1f5915369bd9.png)
-#input
+![input5](https://user-images.githubusercontent.com/56245966/115414133-fc915180-a21f-11eb-83d5-438b5d2c36f5.png)
